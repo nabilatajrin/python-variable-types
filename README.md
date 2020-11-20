@@ -1,2 +1,2 @@
 # python-variable-types
-<p>This repository contains some programs on python variables.</p>
+<p>This repository contains some basic programs of different types of python variables.</p>
