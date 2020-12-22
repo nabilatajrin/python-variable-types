@@ -3,7 +3,6 @@ the type-names as a function.
 There are several built-in functions to perform conversion from one data type to another. These functions return a new
 object representing the converted value.'''
 
-
 '''Sr.No.	Function & Description
 1	
 int(x [,base])
