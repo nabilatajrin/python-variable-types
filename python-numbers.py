@@ -1,12 +1,10 @@
 #Number data types store numeric values. Number objects are created when you assign a value to them. For example −
-
 var1 = 1
 var2 = 10
 
 #You can also delete the reference to a number object by using the del statement. The syntax of the del statement is −
 #del var1[,var2[,var3[....,varN]]]]
 #You can delete a single object or multiple objects by using the del statement. For example −
-
 del var1
 print(var1)
 
